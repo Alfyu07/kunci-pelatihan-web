@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin:0;
+}
+
+.box-one{
+    background-color: greenyellow;
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.box-two{
+    background-color: blueviolet;
+    font-weight: 600;
+    font-size: 40px;
+
+}
